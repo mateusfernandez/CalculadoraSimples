@@ -9,3 +9,11 @@ Utilizei o python para criação de uma calculadora, simples e eficiente
 
 Realiza todas as operações básicas com um código limpo e sem complicações.
 
+--------------------------------------------------------------
+
+💻 TECNOLOGIAS USADAS:
+
+• Python
+• Tkinter
+
+--------------------------------------------------------------
